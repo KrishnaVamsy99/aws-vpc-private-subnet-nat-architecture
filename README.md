@@ -56,6 +56,10 @@ Created a VPC in the production environment in AWS
 - Auto Scaling verified: ✅
 - SG rules validated
 
+## Architecture Diagram
+
+![AWS VPC Architecture](VPCFlow.drawio.png)
+
 ## 🔗 Sample URL
 `aws-prod-lb-360951208.ap-south-1.elb.amazonaws.com` (Used for Calculator app demo)
 <img width="1701" height="970" alt="image" src="https://github.com/user-attachments/assets/b89da577-b553-432b-a9c1-03720309f551" />
